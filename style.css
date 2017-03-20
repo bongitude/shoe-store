@@ -1,0 +1,37 @@
+body {
+    background-color: cadetblue;
+}
+
+/*Banner Styles*/
+.banner {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px 0;
+}
+
+.store-name{
+    color: white;
+
+}
+/*End Banner Styles*/
+
+/*Nav Styles*/
+.nav {
+    background-color: white;
+    color: darkslategray;
+}
+/*End Nav Styles*/
+
+/*Card Container Styles*/
+.card-container {
+   padding: 15px;
+}
+
+.card-container .card{
+    margin: 15px;
+}
+
+.card-container .card .card-img-top{
+    width: 100%;
+}
+/*End Card Container Styles*/
